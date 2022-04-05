@@ -83,6 +83,9 @@ body{
     color: #2F2325;
 }
 
+.botão:hover{
+    background-color: rgba(236, 214, 196, 0.53);
+}
 
 .principal-imagem{
     width: 394.13px;
